@@ -7,3 +7,5 @@ Este proyecto consistira en conectar un LDR que controle el movimiento de un Ser
 
 toDo: subir codigo
 toDo: subir esquematico
+
+![servoLdr](https://github.com/user-attachments/assets/1ef67c39-9a1c-4098-b105-787e4ac37f23)
