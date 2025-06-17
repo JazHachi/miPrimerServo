@@ -1,11 +1,11 @@
-# Código pre-examen
-mi primer servo controlado con arduino
+# Pre-examen de Electronica
+servomotor controlado con arduino
 
 ## Descripccion de funcionamiento
 
-Este proyecto consistira en conectar un LDR que controle el movimiento de un Servomotor
+Este proyecto consistira en conectar un LDR que controle el movimiento de un Servomotor. Sera utilizado para mover una escultura blanda con el ritmo de un corazon.
 
-# Codigo
+## Codigo
 ~~~
 #include <Servo.h>
 
