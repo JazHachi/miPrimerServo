@@ -5,7 +5,7 @@ mi primer servo controlado con arduino
 
 Este proyecto consistira en conectar un LDR que controle el movimiento de un Servomotor
 
-#Codigo
+# Codigo
 
 #include <Servo.h>
 
