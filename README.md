@@ -57,7 +57,7 @@ void loop() {
 
 *el codigo de arriba tiene un latido mas mecanico, constante que no le aporta de manera positiva a la obra, uno que sea mas aleatorio y organico puede ser mejor.
 
-#Segundo codigo
+## Segundo codigo
 ~~~
 #include <Servo.h>
 
